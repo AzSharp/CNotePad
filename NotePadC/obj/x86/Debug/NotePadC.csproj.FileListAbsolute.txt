@@ -1,0 +1,16 @@
+C:\Users\Zyzz\Desktop\Programming,gotove App\NotePadC\NotePadC\bin\Debug\NotePadC.exe
+C:\Users\Zyzz\Desktop\Programming,gotove App\NotePadC\NotePadC\bin\Debug\NotePadC.pdb
+C:\Users\Zyzz\Desktop\Programming,gotove App\NotePadC\NotePadC\obj\x86\Debug\NotePadC.Form1.resources
+C:\Users\Zyzz\Desktop\Programming,gotove App\NotePadC\NotePadC\obj\x86\Debug\NotePadC.Properties.Resources.resources
+C:\Users\Zyzz\Desktop\Programming,gotove App\NotePadC\NotePadC\obj\x86\Debug\NotePadC.csproj.GenerateResource.Cache
+C:\Users\Zyzz\Desktop\Programming,gotove App\NotePadC\NotePadC\obj\x86\Debug\NotePadC.exe
+C:\Users\Zyzz\Desktop\Programming,gotove App\NotePadC\NotePadC\obj\x86\Debug\NotePadC.pdb
+C:\Users\Zyzz\Desktop\Programming,gotove App\NotePadC\NotePadC\obj\x86\Debug\NotePadC.csprojResolveAssemblyReference.cache
+C:\Programming,gotove App\NotePadC\NotePadC\obj\x86\Debug\NotePadC.exe
+C:\Programming,gotove App\NotePadC\NotePadC\obj\x86\Debug\NotePadC.pdb
+C:\Programming,gotove App\NotePadC\NotePadC\bin\Debug\NotePadC.exe
+C:\Programming,gotove App\NotePadC\NotePadC\bin\Debug\NotePadC.pdb
+C:\Programming,gotove App\NotePadC\NotePadC\obj\x86\Debug\NotePadC.csprojResolveAssemblyReference.cache
+C:\Programming,gotove App\NotePadC\NotePadC\obj\x86\Debug\NotePadC.Form1.resources
+C:\Programming,gotove App\NotePadC\NotePadC\obj\x86\Debug\NotePadC.Properties.Resources.resources
+C:\Programming,gotove App\NotePadC\NotePadC\obj\x86\Debug\NotePadC.csproj.GenerateResource.Cache
